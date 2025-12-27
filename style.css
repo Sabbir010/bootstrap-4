@@ -1,0 +1,11 @@
+.bg-custom{
+    background-color:#97df96;
+}
+
+.custom-nav-link{
+    text-decoration: none;
+    color: blueviolet;
+    padding: 20px;
+    font-size: 20px;
+
+}
